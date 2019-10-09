@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3077df8-8ff3-414b-a800-6a1a516cb141" name="Default Changelist" comment="" />
+    <list default="true" id="a3077df8-8ff3-414b-a800-6a1a516cb141" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LagestAnd SmallestElement/SecondSmallestEl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LagestAnd SmallestElement/SecondSmallestEl.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Reza &lt;rezag631@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RxTvCp5gLmeCT9ZXb7FrUiWcjT" />
@@ -23,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,7 +46,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondSmallestEl">
+  <component name="RunManager" selected="Application.MoveElement">
+    <configuration name="MoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveElement" />
+      <module name="LagestAnd SmallestElement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SecondLargestEl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SecondLargestEl" />
       <module name="LagestAnd SmallestElement" />
@@ -53,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveElement" />
         <item itemvalue="Application.SecondSmallestEl" />
         <item itemvalue="Application.SecondLargestEl" />
       </list>
@@ -69,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570607975840</updated>
       <workItem from="1570607980402" duration="10035000" />
+      <workItem from="1570621475591" duration="3292000" />
     </task>
     <servers />
   </component>
@@ -80,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
